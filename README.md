@@ -7,3 +7,6 @@
 
 
 ## 3주차 과제
+<img width="33%" height="" src="./Png/3-1.png"></img>
+<img width="33%" height="" src="./Png/3-2.png"></img>
+<img width="33%" height="" src="./Png/3-3.png"></img>
