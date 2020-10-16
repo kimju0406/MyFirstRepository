@@ -36,3 +36,6 @@
   
 
 ---
+## 7주차 과제
+<img width="49%" height="" src="./Png/7-1.png"></img>
+<img width="49%" height="" src="./Png/7-2.png"></img>
